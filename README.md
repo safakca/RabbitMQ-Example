@@ -1,1 +1,1 @@
-# RabbitmqExample
+# RabbitMQ Example
