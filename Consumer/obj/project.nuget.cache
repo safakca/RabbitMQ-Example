@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EsBsKxs4Ujki4tHattUIoaQeht96YyRR0aXPL0VbpmJPYMrjk7qs8igHvYNAzP7Kk4oxiRGgAn3rL8P5NUgq2g==",
+  "dgSpecHash": "KZBktlbhiYU7dJ9IY04UZyln8COgKZ7xTKMCPZ7jzXRVToKwjM2kMgjT9Pa75Fvti/QrOo5l+Qbr/PbaRq+olA==",
   "success": true,
   "projectFilePath": "/Users/safakca/Projects/RabbitmqExample/Consumer/Consumer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/safakca/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/safakca/.nuget/packages/rabbitmq.client/6.5.0/rabbitmq.client.6.5.0.nupkg.sha512",
+    "/Users/safakca/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/safakca/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

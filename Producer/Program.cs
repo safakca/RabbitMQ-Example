@@ -10,7 +10,7 @@ Customer customer = new()
     Id=1,
     Name="Merit",
     Surname="Cos",
-    Message="Siparişiniz Yolda"
+    Message="Your order is on the way"
 };
 
 
