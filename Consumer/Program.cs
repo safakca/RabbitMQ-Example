@@ -8,7 +8,7 @@ Console.WriteLine("Hello, World!");
 
 ConnectionFactory factory = new()
 {
-    Uri = new Uri("amqps://geilrjnf:CFHBVh0ApbH-4IfPGkSEB7-hUFVg1wQK@sparrow.rmq.cloudamqp.com/geilrjnf")
+    Uri = new Uri("amqps://...")
 };
 
 using var connection = factory.CreateConnection();
