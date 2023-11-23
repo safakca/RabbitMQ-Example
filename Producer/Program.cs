@@ -16,7 +16,7 @@ Customer customer = new()
 
 ConnectionFactory connectionFactory = new()
 {
-    Uri = new Uri("amqps://geilrjnf:CFHBVh0ApbH-4IfPGkSEB7-hUFVg1wQK@sparrow.rmq.cloudamqp.com/geilrjnf")
+    Uri = new Uri("amqps://...")
 };
 
 using IConnection connection = connectionFactory.CreateConnection();
